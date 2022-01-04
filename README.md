@@ -32,3 +32,9 @@ for example:
 ## Updating Cron Chat Messages
 
 Put the script to run: ```controller/cron/update_channels.php```
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
